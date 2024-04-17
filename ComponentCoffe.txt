@@ -1,0 +1,9 @@
+eggs 3
+oil 100g
+sugar 200g
+water 240ml
+flour 280g
+cinnamon 2.5g
+cocoa 6g
+coffee 2.5g
+coconut 30g

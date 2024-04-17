@@ -1,0 +1,8 @@
+eggs 4
+oil 150g
+sugar 200g
+flour 280g
+cinnamon 8g
+apples 3
+wine 120ml
+choppedwalnuts 35g
